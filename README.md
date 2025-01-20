@@ -1,7 +1,6 @@
 # Commande et Produit Microservices avec API Gateway, Eureka Server, Config Server, et UI
 
-Ce projet implémente un système avec des microservices pour la gestion des `Commandes` (orders) et des `Produits` (products). Les microservices sont enregistrés avec **Eureka** pour la découverte de services, et **API Gateway** achemine les demandes vers le microservice approprié. Le système inclut également un **Config Server** pour la gestion centralisée de la configuration et une simple **interface utilisateur front-end** pour interagir avec les services.
-
+Ce projet implémente un système avec des microservices pour la gestion des `Commandes` (orders) et des `Produits` (products). Les microservices sont enregistrés avec **Eureka** pour la découverte de services, et **API Gateway** achemine les demandes vers le microservice approprié. Le système inclut également un **Config Server** pour la gestion centralisée de la configuration 
 ## Structure du Projet
 
 Le projet est divisé en plusieurs composants :
