@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EurekaServer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProduitMicroService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/microservice-commandes_v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ui/commande-produit-ui" vcs="Git" />
+  </component>
+</project>
